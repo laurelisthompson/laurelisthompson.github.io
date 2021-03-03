@@ -918,7 +918,6 @@ div.pp_default .pp_description {
 
 .skills-history li {
     display: flex;
-    /* align-items: center; */
     position: relative;
     margin-bottom: 15px;
 }
